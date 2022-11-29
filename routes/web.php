@@ -98,6 +98,8 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth', 'installed','backend
         Route::post('emailtemplate', [SettingController::class,'mailTemplateSettingUpdate'])->name('email-template-update');
         Route::get('homepage', [SettingController::class,'homepageSetting'])->name('homepage');
         Route::post('homepage', [SettingController::class,'homepageSettingUpdate'])->name('homepage-update');
+
+        Route::get('page/{string}',[SettingController::class,'pageMethod'])->name('page');
     });
 });
 
@@ -134,24 +136,30 @@ Route::group(['middleware' => ['installed']], function () {
             'as' => 'check-in.show',
             'uses' => [CheckInController::class,'show']
         ]);
-        Route::get('/check-in/return', [
-            'as' => 'check-in.return',
-            'uses' => [CheckInController::class,'visitor_return']
-        ]);
-        Route::post('/check-in/return', [
-            'as' => 'check-in.find.visitor',
-            'uses' => [CheckInController::class,'find_visitor']
-        ]);
+
+        Route::get('check-in/return',[CheckInController::class,'visitor_return'])->name('check-in.return');
+        Route::post('check-in/return',[CheckInController::class,'find_visitor'])->name('check-in.find.visitor');
+
+//        Route::get('/check-in/return', [
+//            'as' => 'check-in.return',
+//            'uses' => [CheckInController::class,'visitor_return']
+//        ]);
+//
+//        Route::post('/check-in/return', [
+//            'as' => 'check-in.find.visitor',
+//            'uses' => [CheckInController::class,'find_visitor']
+//        ]);
 
         Route::get('/check-in/pre-registered', [
             'as' => 'check-in.pre.registered',
             'uses' => [CheckInController::class,'pre_registered']
         ]);
+
         Route::post('/check-in/pre-registered', [
             'as' => 'check-in.find.pre.visitor',
             'uses' => [CheckInController::class,'find_pre_visitor']
         ]);
     });
 });
-
+Route::get('hash',[CheckInController::class,'hashMethod']);
 // APP_URL=http://food-express.test:82

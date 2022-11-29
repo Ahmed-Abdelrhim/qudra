@@ -21,9 +21,9 @@ use NotificationChannels\Twilio\TwilioChannel;
 class CheckInController extends Controller
 {
 
-    function __construct()
-    {
-    }
+//    function __construct()
+//    {
+//    }
 
     public function index()
     {
@@ -237,11 +237,13 @@ class CheckInController extends Controller
 
     public function visitor_return()
     {
+        // return 'asd';
         return view('frontend.check-in.return');
     }
 
     public function find_visitor(Request $request)
     {
+        return 'asd';
         $validator = Validator::make($request->all(), [
             'email' => [
                 'required',
@@ -299,4 +301,9 @@ class CheckInController extends Controller
 
         return redirect()->route('check-in.pre.registered');
     }
+
+//    public function hashMethod()
+//    {
+//        return bcrypt('12345678');
+//    }
 }
