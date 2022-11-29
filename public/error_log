@@ -1,0 +1,577 @@
+[23-Aug-2022 15:31:59 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:31:59 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:31:59 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:33:11 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:33:11 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:33:11 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:36:05 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:36:05 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:36:05 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:37:00 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:37:00 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:37:00 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:37:44 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:37:44 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:37:44 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:39:26 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:39:26 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:39:26 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[23-Aug-2022 15:40:06 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/home/batzo8rb2zvm/public_html/visitorpass/public/index.php) is not within the allowed path(s): (G:/PleskVhosts/qudratech-sd.com\;C:\Windows\Temp\) in Unknown on line 0
+[23-Aug-2022 15:40:06 UTC] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[23-Aug-2022 15:40:06 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/batzo8rb2zvm/public_html/visitorpass/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in Unknown on line 0
+[21-Oct-2022 15:52:25 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Oct-2022 17:28:38 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:31:24 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:31:27 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:31:37 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:32:00 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:32:45 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:32:45 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 10:51:14 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 11:48:45 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 11:48:48 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 12:35:31 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 12:35:34 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 12:35:42 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 14:41:08 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:04:21 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:05:01 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:05:12 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:05:49 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:05:56 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:06:35 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:06:39 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:06:44 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[23-Oct-2022 15:06:45 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Oct-2022 08:26:50 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Oct-2022 11:51:55 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Oct-2022 09:58:13 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Oct-2022 10:36:02 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Oct-2022 11:00:55 Africa/Cairo] PHP Fatal error:  Declaration of Doctrine\DBAL\Driver\PDOConnection::query() must be compatible with PDO::query(string $query, ?int $fetchMode = null, mixed ...$fetchModeArgs) in /home/batzo8rb2zvm/public_html/visitorpass/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 81
+[15-Nov-2022 02:58:45 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[16-Nov-2022 11:17:00 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Nov-2022 06:28:55 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Nov-2022 10:07:27 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Nov-2022 10:07:30 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[21-Nov-2022 13:16:36 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Nov-2022 02:17:58 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[24-Nov-2022 02:18:02 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
+[25-Nov-2022 02:52:49 Africa/Cairo] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1349
+Stack trace:
+#0 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(571): include('/home/batzo8rb2...')
+#2 /home/batzo8rb2zvm/public_html/visitorpass/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/helpers.php(110): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(230): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(135): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/batzo8rb2zvm/public_html/visitorpass/public/index.php(55): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/batzo8rb2zvm/public_html/visitorpass/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
