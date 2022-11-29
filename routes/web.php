@@ -18,6 +18,8 @@ use App\Http\Controllers\PurchaseCodeController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
+
+
 Route::group(['middleware' => ['installed']], function () {
     Auth::routes(['verify' => false]);
 });
