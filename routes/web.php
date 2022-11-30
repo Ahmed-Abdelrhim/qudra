@@ -54,36 +54,47 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth', 'installed','backend
     Route::get('profile', [ProfileController::class,'index'])->name('profile');
     Route::put('profile/update/{profile}', [ProfileController::class,'update'])->name('profile.update');
     Route::put('profile/change', [ProfileController::class,'change'])->name('profile.change');
-    Route::resource('adminusers', AdminUserController::class);
+
+    // Route::resource('adminusers', AdminUserController::class);
+    Route::resource('adminusers', 'AdminUserController');
+
     Route::get('get-adminusers', [AdminUserController::class,'getAdminUsers'])->name('adminusers.get-adminusers');
-    Route::resource('role', RoleController::class);
+
+    // Route::resource('role', RoleController::class);
+    Route::resource('role', 'RoleController');
     Route::post('role/save-permission/{id}', [RoleController::class,'savePermission'])->name('role.save-permission');
 
     //designations
-    Route::resource('designations', DesignationsController::class);
+    // Route::resource('designations', DesignationsController::class);
+    Route::resource('designations', 'DesignationsController');
     Route::get('get-designations', [DesignationsController::class,'getDesignations'])->name('designations.get-designations');
 	
 	//types
-    Route::resource('types', TypesController::class);
+    // Route::resource('types', TypesController::class);
+    Route::resource('types', 'TypesController');
     Route::get('get-types', [TypesController::class,'getTypes'])->name('types.get-types');
 
     //departments
-    Route::resource('departments', DepartmentsController::class);
+    // Route::resource('departments', DepartmentsController::class);
+    Route::resource('departments', 'DepartmentsController');
     Route::get('get-departments', [DepartmentsController::class,'getDepartments'])->name('departments.get-departments');
 
     //employee route
-    Route::resource('employees', EmployeeController::class);
+    // Route::resource('employees', EmployeeController::class);
+    Route::resource('employees', 'EmployeeController');
     Route::get('get-employees', [EmployeeController::class,'getEmployees'])->name('employees.get-employees');
     Route::get('employees/get-pre-registers/{id}', [EmployeeController::class,'getPreRegister'])->name('employees.get-pre-registers');
     Route::get('employees/get-visitors/{id}', [EmployeeController::class,'getVisitor'])->name('employees.get-visitors');
     Route::put('employees/check/{id}',[EmployeeController::class,'checkEmployee'])->name('employees.check');
 
     //pre-registers
-    Route::resource('pre-registers', PreRegisterController::class);
+    // Route::resource('pre-registers', PreRegisterController::class);
+    Route::resource('pre-registers', 'PreRegisterController');
     Route::get('get-pre-registers', [PreRegisterController::class,'getPreRegister'])->name('pre-registers.get-pre-registers');
 
     //visitors
-    Route::resource('visitors', VisitorController::class);
+    // Route::resource('visitors', VisitorController::class);
+    Route::resource('visitors', 'VisitorController');
     Route::get('get-visitors', [VisitorController::class,'getVisitor'])->name('visitors.get-visitors');
 
     Route::group(['prefix' => 'setting', 'as' => 'setting.'], function () {
