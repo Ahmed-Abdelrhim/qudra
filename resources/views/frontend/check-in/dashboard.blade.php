@@ -12,7 +12,8 @@
                     <br>
                     <div class="ei-banner-btn">
                     <a href="{{ route('check-in.step-one') }}">
-                            <img  src="{{ asset('website/img/check-in-icon.png')}}" style="height: 40px;"><span>{{__('Reserve-a-visit')}}</span>
+                            <img  src="{{ asset('website/img/check-in-icon.png')}}" alt="not-found-image"
+                                  style="height: 40px;"><span>{{__('Reserve-a-visit')}}</span>
                         </a>
                     </div>
                 </div>
@@ -20,9 +21,20 @@
                     <img src="{{asset('images/frontend.png')}}" alt="">
                 </div>
             </div>
+
+
         </div>
     </section>
 @endsection
+<div></div>
 
-@section('')
-@endsection
+
+
+
+
+
+
+
+{{--@section('footer')--}}
+{{--    --}}
+{{--@endsection--}}
