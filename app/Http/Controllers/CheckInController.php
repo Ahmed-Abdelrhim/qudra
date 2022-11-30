@@ -302,8 +302,29 @@ class CheckInController extends Controller
         return redirect()->route('check-in.pre.registered');
     }
 
-//    public function hashMethod()
-//    {
-//        return bcrypt('12345678');
-//    }
+    public function hashMethod($num)
+    {
+//        if (!is_numeric($num))
+//            return view('errors.404');
+        $length = strlen($num);
+        $reversed = '';
+        for ($i= $length - 1; $i >= 0; $i--) {
+            if ($i == 0) {
+                $reversed .= substr($num,0,1);
+                break;
+            }
+            $reversed .= substr($num,$i,1);
+        }
+
+        if ($reversed === $num)
+            return true;
+        return false;
+
+
+
+
+
+
+        // return bcrypt('12345678');
+    }
 }

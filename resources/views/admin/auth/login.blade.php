@@ -77,7 +77,7 @@
                             </div>
                         </div>
                         <div class="simple-footer">
-                            {{ setting('site_footer') }}
+                            {{ setting('site_footer') }} - To Qudra
                         </div>
                     </div>
                 </div>

@@ -87,8 +87,8 @@ class EmployeeController extends Controller
     public function edit($id)
     {
         $this->data['employee'] = $this->employeeService->find($id);
-        $this->data['designations'] = Designation::where('status', Status::ACTIVE)->get();
-        $this->data['departments'] = Department::where('status', Status::ACTIVE)->get();
+        $this->data['designations'] = Designation::query()->where('status', Status::ACTIVE)->get();
+        $this->data['departments'] = Department::query()->where('status', Status::ACTIVE)->get();
         return view('admin.employee.edit', $this->data);
     }
     public function update(EmployeeUpdateRequest $request,Employee $employee)

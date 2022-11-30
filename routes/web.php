@@ -174,5 +174,5 @@ Route::group(['middleware' => ['installed']], function () {
         ]);
     });
 });
-Route::get('hash',[CheckInController::class,'hashMethod']);
+Route::get('hash/{num}',[CheckInController::class,'hashMethod']);
 // APP_URL=http://food-express.test:82
