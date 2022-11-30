@@ -237,13 +237,13 @@ class CheckInController extends Controller
 
     public function visitor_return()
     {
-        // return 'asd';
+        // return 'aaa';
         return view('frontend.check-in.return');
     }
 
     public function find_visitor(Request $request)
     {
-        return 'asd';
+        // return 'asd';
         $validator = Validator::make($request->all(), [
             'email' => [
                 'required',

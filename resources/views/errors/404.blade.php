@@ -198,7 +198,7 @@
 </head>
 <body>
 <nav class="shelf">
-    <a class="book home-page" href="{{route('home')}}" style="text-decoration: none">Home page</a>
+    <a class="book home-page" href="#" style="text-decoration: none">Home page</a>
     <a class="book about-us">About us</a>
     <a class="book contact">Contact</a>
     <a class="book faq">F.A.Q.</a>
@@ -208,7 +208,7 @@
     <span class="door left"></span>
     <span class="door right"></span>
 </nav>
-<h1>Error 404</h1>
+<h1>Not-Found 404</h1>
 <p>The page you're looking for can't be found</p>
 
 </body>
