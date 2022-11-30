@@ -24,3 +24,5 @@
     </section>
 @endsection
 
+@section('')
+@endsection
